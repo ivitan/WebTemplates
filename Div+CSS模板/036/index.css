@@ -1,0 +1,68 @@
+
+/* ::::: http://localhost/wordpress/wp-content/themes/falling_dreams/style.css ::::: */
+
+a:link { color: rgb(222, 58, 58); text-decoration: none; }
+a:visited { color: rgb(222, 58, 58); text-decoration: none; }
+a:hover { color: rgb(0, 0, 0); text-decoration: none; }
+blockquote { border-left: 1px solid rgb(222, 58, 58); margin: 1em 0pt; padding: 5px 10px; background: rgb(238, 238, 238) none repeat; }
+body#about a#menu-about { border-color: rgb(255, 255, 255); background: rgb(74, 74, 74) none repeat; color: rgb(248, 248, 248); }
+body#contact a#menu-contact { border-color: rgb(255, 255, 255); background: rgb(74, 74, 74) none repeat; color: rgb(248, 248, 248); }
+body#home a#menu-home { border-color: rgb(255, 255, 255); background: rgb(74, 74, 74) none repeat; color: rgb(248, 248, 248); }
+body#photos a#menu-photos { border-color: rgb(255, 255, 255); background: rgb(74, 74, 74) none repeat; color: rgb(248, 248, 248); }
+body, td { margin: 0px auto; padding: 0px; background-attachment: fixed; background-color: rgb(238, 238, 238); background-image: url('images/groundob.gif'); color: rgb(51, 51, 51); font-family: "Helvetica",Arial,sans-serif; font-size: 75%; text-align: center; }
+div.nicetitle { padding: 3px 20px 3px 5px; background: transparent url('images/background.png') no-repeat; color: rgb(51, 51, 51); font-family: "Helvetica",Arial,sans-serif; font-size: 11px; font-weight: bold; left: 0px; position: absolute; top: 0px; width: 20em; text-align: left; }
+div.nicetitle p { margin: 0pt; padding: 0pt 3px; }
+div.nicetitle p.destination { font-size: 9px; padding-top: 3px; text-align: left; }
+form { margin: 0px; padding: 0px; color: rgb(61, 61, 61); font-family: Georgia,Arial,Helvetica,sans-serif; font-size: 1em; }
+h2 { font-size: 11px; font-weight: normal; }
+h3 { margin: 0px; padding: 0px 0px 3px; font-size: 21px; }
+h3 a { color: rgb(0, 102, 255); }
+h4 { color: rgb(61, 61, 61); font-family: Georgia,Arial,Helvetica,sans-serif; font-size: 18px; font-weight: normal; }
+input { border: 1px solid rgb(153, 153, 153); padding: 2px 5px; background: rgb(248, 248, 248) none repeat; color: rgb(61, 61, 61); font-family: Georgia,Arial,Helvetica,sans-serif; font-size: 1em; }
+p.comentariu-rss { margin: 0pt 0pt 10px 0px; font-family: Georgia,Arial,Helvetica,sans-serif; font-size: 0.9em; font-variant: normal; }
+p.data-comentariu { margin: 0pt 0pt 10px 0px; padding: 0px 12px 0px 0px; background: transparent url('images/icon_ceas.gif') no-repeat scroll right center; color: rgb(222, 58, 58); font-family: Arial,"Helvetica",sans-serif; font-size: 10px; font-variant: normal; text-align: right; }
+select { border: 1px solid rgb(153, 153, 153); margin: 0px; padding: 0px; background: rgb(248, 248, 248) none repeat; color: rgb(61, 61, 61); font-family: Georgia,Arial,Helvetica,sans-serif; font-size: 11px; font-variant: normal; }
+textarea { border: 1px solid rgb(153, 153, 153); margin: 0px; padding: 0px; background: rgb(248, 248, 248) none repeat; color: rgb(61, 61, 61); font-family: Georgia,Arial,Helvetica,sans-serif; font-size: 11px; font-variant: normal; width: 95%; }
+.autor { border-bottom: 1px dotted rgb(153, 153, 153); color: rgb(61, 61, 61); font-family: Georgia,Arial,Helvetica,sans-serif; font-size: 10px; }
+.autor-comentariu { margin: 0pt 0pt 0px 0px; padding: 0px; color: rgb(222, 58, 58); font-family: Arial,"Helvetica",sans-serif; font-size: 12px; font-weight: bold; }
+.autor-mail { margin: 0pt 0pt 0px 0px; padding: 0px; color: rgb(222, 58, 58); font-family: Arial,Helvetica,sans-serif; font-size: 10px; }
+.continut { line-height: 130%; padding-top: 10px; }
+.data { color: rgb(61, 61, 61); font-family: Georgia,Arial,Helvetica,sans-serif; font-size: 20px; margin-bottom: 20px; margin-top: 20px; text-align: right; }
+.feedback { padding: 3px; background-color: rgb(238, 238, 238); margin-bottom: 12px; }
+.image { border: 1px solid rgb(221, 221, 221); margin: 5px auto 5px -6px; padding: 5px; }
+.link-comentariu { padding: 0pt 0pt 0pt 17px; background: transparent url('images/icon_comentariu.gif') no-repeat scroll left center; }
+.link-permanent { margin: 0pt 1.8em 0pt 0pt; padding: 0pt 0pt 0pt 14px; background: transparent url('images/icon_link_permanent.gif') no-repeat scroll left center; }
+.lista-comentarii { margin: 0pt; padding: 0pt; }
+.lista-comentarii li { border: 1px solid rgb(238, 238, 238); margin: 10px 0px; padding: 10px 10px 0pt; background: rgb(240, 240, 240) none repeat; color: rgb(61, 61, 61); list-style-type: none; list-style-image: none; list-style-position: outside; }
+.lista-comentarii li:hover { border: 1px solid rgb(204, 204, 204); }
+.titlu { background-image: url('images/titlu.gif'); background-position: left top; background-repeat: no-repeat; font-family: Georgia,"Times New Roman",Times,serif; font-size: 18px; font-weight: bold; margin-bottom: 5px; padding-left: 17px; padding-top: 0px; text-align: left; }
+.titlu a:link, .titlu a:visited { color: rgb(222, 58, 58); text-decoration: none; }
+.titlu a:hover { background-color: rgb(222, 58, 58); color: rgb(255, 255, 255); text-decoration: none; }
+#buton { border: 1px solid rgb(153, 153, 153); margin: 10px 0px 0px; background: rgb(222, 58, 58) none repeat; color: rgb(255, 255, 255); }
+#buton:hover { border: 1px solid rgb(51, 51, 51); margin: 10px 0px 0px; background: rgb(51, 51, 51) none repeat; color: rgb(255, 255, 255); }
+#dreapta { margin: 0px -10px 0px 0px; float: right; left: -10px; position: relative; text-align: left; width: 160px; }
+#dreapta h2 { margin: 0px; color: rgb(102, 102, 102); font-family: Georgia,Arial,Helvetica,sans-serif; font-size: 14px; font-weight: bold; height: 20px; padding-bottom: 2px; padding-right: 10px; padding-top: 10px; text-align: right; }
+#dreapta ul { margin: 0px 0px 0px -10px; padding: 0px 10px 0px 0px; list-style-type: none; text-align: right; }
+#dreapta ul li { padding-bottom: 10px; padding-left: 10px; padding-top: 10px; text-align: right; }
+#dreapta ul ul { margin: 0px 0px 0px 5px; padding: 0px; list-style-type: none; text-align: right; }
+#dreapta ul ul li { border: medium none ; margin: 0px 0px 0px -10px; list-style-type: none; padding-bottom: 2px; padding-right: 10px; padding-top: 2px; text-align: right; }
+#footer { border-bottom: 5px solid rgb(255, 255, 255); margin: 0px; padding: 10px 3px 3px 8px; background-color: rgb(51, 51, 51); clear: both; color: rgb(153, 153, 153); font-family: Arial,Helvetica,sans-serif; font-size: 9px; font-variant: normal; font-weight: normal; height: 20px; line-height: 130%; }
+#footer a:link, #footer a:visited { padding: 2px 3px; background-color: rgb(74, 74, 74); color: rgb(153, 153, 153); text-decoration: none; }
+#footer a:hover { padding: 2px 3px; background-color: rgb(222, 58, 58); color: rgb(255, 255, 255); text-decoration: none; }
+#fundal-meniu { margin: 0px; padding: 2px 3px 3px 25px; background-image: url('images/meniu.jpg'); background-repeat: no-repeat; height: 30px; }
+#header { margin: 0px; background-image: url('images/logo.jpg'); background-repeat: no-repeat; font-family: "Trebuchet MS",Verdana,Arial,sans-serif; height: 264px; padding-left: 15px; padding-top: 1px; text-align: left; vertical-align: bottom; }
+#header a:link, #header a:visited, #header a:hover { color: rgb(255, 255, 255); font-size: 24px; }
+#meniu { margin: 0px 0px 0px -260px; padding: 5px 25px; color: rgb(255, 255, 255); display: block; font-family: Georgia,"Times New Roman",Times,serif; font-style: normal; font-variant: normal; font-weight: bold; font-size: 11px; line-height: 9px; font-size-adjust: none; font-stretch: normal; left: 50%; position: absolute; text-align: left; top: 268px; width: 526px; }
+#meniu a { margin: 0px; padding: 5px 16px; background: rgb(51, 51, 51) none repeat; color: rgb(255, 255, 255); font-weight: bold; height: 19px; }
+#meniu a:hover { background: rgb(222, 58, 58) none repeat; color: rgb(255, 255, 255); text-decoration: none; }
+#meniu li { margin: 0px; padding: 0px; display: inline; text-transform: lowercase; }
+#meniu ul { list-style-type: none; }
+#meniu ul li { border-bottom: 1px dashed rgb(204, 204, 204); padding-bottom: 10px; padding-left: 10px; padding-top: 10px; }
+#meniu ul ul { list-style-type: none; }
+#meniu ul ul li { border: medium none ; margin: 0px 0px 0px -10px; list-style-type: none; padding-bottom: 2px; padding-top: 2px; }
+#principal { border-left: 5px solid rgb(255, 255, 255); border-right: 5px solid rgb(255, 255, 255); margin: 0px auto; padding: 0px; background-color: rgb(248, 248, 248); text-align: center; width: 526px; }
+#stanga { margin: 0px; padding: 0px 0px 10px 10px; color: rgb(102, 102, 102); float: left; height: auto; text-align: justify; width: 340px; }
+
+/* ::::: http://localhost/wordpress/ ::::: */
+
+#header { background: transparent url('images/ob0.jpg') no-repeat scroll center bottom; }

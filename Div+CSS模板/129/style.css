@@ -1,0 +1,141 @@
+body {
+	padding: 20px;
+	background-color: #666;
+	font: 100.01% "Trebuchet MS",Verdana,Arial,sans-serif;
+}
+div.nifty { 
+  margin: 0 10%;
+  background: white;
+}
+b.rtop, b.rbottom {
+display:block;
+background: #666;
+}
+b.rtop b, b.rbottom b {
+display:block;
+height: 1px;
+overflow: hidden;
+background: white;
+}
+b.r1 {
+margin: 0 5px;
+}
+b.r2 {
+margin: 0 3px;
+}
+b.r3 {
+margin: 0 2px;
+}
+b.rtop b.r4, b.rbottom b.r4 {
+margin: 0 1px;
+height: 2px;
+}
+h1,h2,p {
+margin: 0 10px;
+}
+h1 {
+font-size: 250%;
+color: #FFF
+}
+h2 {
+font-size: 200%; color: #f0f0f0
+}
+p {
+padding-bottom:1em;
+}
+h2 {
+padding-top: 0.3em;
+}
+h2#slogan {
+  font-size: 80%;
+  color: black;
+  position: absolute;
+  top: 80px; left: 150px;
+}
+div.nifty2 { 
+  margin: 0 0.5%;
+  background: #9BD1FA;
+}
+#main_text {
+  height: 370px;
+  overflow: auto;
+}
+b.rtop2, b.rbottom2 {
+display:block;
+background: white;
+}
+b.rtop2 b, b.rbottom2 b {
+display:block;
+height: 1px;
+overflow: hidden;
+background: #9BD1FA;
+}
+b.r12 {
+margin: 0 5px;
+}
+b.r22 {
+margin: 0 3px;
+}
+b.r32 {
+margin: 0 2px;
+}
+b.rtop2 b.r42, b.rbottom2 b.r42 {
+margin: 0 1px;
+height: 2px;
+}
+.gray {
+  color: #666;
+}
+#menu {
+	clear: both;	
+	margin: 0; padding: 0 40px 0 0;
+	background: url(menu.jpg) repeat-y center top;	
+	font: bold 12px/26px Verdana, Arial, Tahoma, Sans-serif;
+	height: 26px;
+	background: white;
+}
+#menu ul {
+	float: right;
+	list-style: none;
+	margin:0; padding: 0;
+}
+#menu ul li {
+	display: inline;
+}
+#menu ul li a {
+	display: block;
+	float: left;
+	padding: 0 8px;
+	color: black;	
+	text-decoration: none;
+}
+#menu ul li a:hover {
+	background-color: #666;
+	color: #9BD1FA;	
+}
+#menu ul li#current a {	
+	background-color: #eee;
+	color: #333;
+}
+form {
+  background: #eee;
+  border: 1px solid black;
+  margin: 5px;
+  font-weight: bold;
+  width: 450px;
+  text-align: left;
+}
+input {
+  color: #666;
+  border: 1px solid #999;
+}
+textarea {
+  color: #666;
+  border: 1px solid #999;
+}
+input.submit {
+  background: #9BD1FA;
+  color: white;
+  font-weight: bold;
+  width: 50px;
+}

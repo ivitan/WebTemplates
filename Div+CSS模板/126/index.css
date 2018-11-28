@@ -1,0 +1,84 @@
+
+/* ::::: http://www.adeonmood.com/styles-site.css ::::: */
+
+html, body { margin: 0px; padding: 0px; background-color: rgb(255, 255, 255); background-repeat: repeat-x; background-attachment: scroll; background-image: url('images/shadow.jpg'); }
+#container { margin: 0px auto; padding: 0px; width: 550px; background-image: none; }
+#container-inner { margin: 0px auto; width: 550px; background-image: url('images/background.gif'); background-repeat: repeat-y; float: left; }
+#adeonmood { margin: 0px; padding: 0px; float: right; width: 180px; }
+#adeonmood h1 { background-image: url('images/personal.jpg'); display: block; width: 180px; height: 56px; margin-top: 109px; text-indent: -9999px; }
+#yoga { margin: 0px; padding: 0px; background: transparent url('images/straw.jpg') no-repeat; float: left; display: block; height: 311px; width: 370px; }
+#leftside { margin: 0px; padding-bottom: 40px; float: left; height: auto; width: 370px; }
+#leftside h2 { font-family: 'Georgia',Times New Roman,Times,serif; font-size: 16px; font-weight: bold; text-align: center; text-transform: capitalize; color: rgb(18, 132, 163); }
+#leftside code { margin: 0px; padding: 0px; color: rgb(92, 108, 252); }
+#leftside .date { font-family: 'Georgia',Times New Roman,Times,serif; font-size: 12px; text-align: center; color: rgb(116, 116, 116); margin-top: -13px; }
+#leftside p { padding: 0px 20px 0px 10px; margin-bottom: 0px; font-family: Geneva,Arial,Helvetica,sans-serif,'Trebuchet MS'; font-size: 12px; color: rgb(116, 116, 116); line-height: 20px; text-align: left; }
+#leftside p a { color: rgb(22, 154, 190); text-decoration: none; }
+#leftside p a:hover { color: rgb(31, 184, 225); text-decoration: underline; }
+#leftside blockquote { padding: 15px; font-family: Geneva,Arial,Helvetica,sans-serif,'Trebuchet MS'; font-size: 12px; color: rgb(116, 116, 116); text-align: center; margin-top: 10px; margin-bottom: 10px; background-image: url('images/blockquote.gif'); background-repeat: no-repeat; background-position: left top; line-height: 20px; }
+.more { padding: 5px 0px 40px; background-image: url('images/leaf.gif'); background-repeat: no-repeat; background-position: center bottom; text-align: right; }
+.more2 { padding: 5px 0px 40px; text-align: right; }
+.continue { margin: 10px 10px 0px; }
+.continue a { font-family: Geneva,Arial,Helvetica,sans-serif,"Trebuchet MS"; font-size: 12px; color: rgb(79, 181, 210); text-decoration: none; }
+.continue a:hover { text-decoration: underline; }
+.value { margin: 10px 10px 0px 0px; }
+.value a { font-family: Geneva,Arial,Helvetica,sans-serif,"Trebuchet MS"; font-size: 12px; color: rgb(79, 181, 210); text-decoration: none; }
+.value a:hover { text-decoration: underline; }
+#rightside { margin: 0px; padding: 0px; width: 180px; float: right; }
+#rightside h2 { padding-left: 15px; text-align: left; font-family: 'Georgia',Times New Roman,Times,serif; font-size: 14px; font-weight: bold; color: rgb(18, 132, 163); }
+#rightside p { padding: 3pt 13px 3pt 15px; line-height: 20px; font-family: Geneva,Arial,Helvetica,sans-serif,"Trebuchet MS"; font-size: 12px; color: rgb(116, 116, 116); margin-top: -5px; height: 100%; }
+#rightside p:hover { background: rgb(246, 253, 255) none no-repeat; text-decoration: none; }
+#rightside p a { color: rgb(22, 154, 190); text-decoration: none; }
+#rightside p a:hover { color: rgb(31, 184, 225); text-decoration: underline; }
+#rightside p span { font-family: 'century Gothic'; line-height: 20px; }
+#rightside img { border: medium none ; margin: 0px; padding: 0px; }
+.searchbox { padding-left: 0px; margin-top: 20px; }
+.search { border: 1px solid rgb(26, 193, 240); padding: 3pt; background-color: rgb(255, 255, 255); font-size: 12px; color: rgb(18, 132, 163); font-family: 'Trebuchet MS',Verdana,Helvetica,Arial,sans-serif; width: 120px; height: 15px; }
+.buttonsearch { border: 1px solid rgb(26, 193, 240); width: 30px; height: 24px; font-family: 'Trebuchet MS',Verdana,Helvetica,Arial,sans-serif; font-size: 12px; color: rgb(18, 132, 163); font-weight: bold; background-color: rgb(255, 255, 255); }
+.archives { margin: 0pt; font-size: 12px; font-family: Geneva,Arial,Helvetica,sans-serif,'Trebuchet MS'; color: rgb(116, 116, 116); }
+.archives ul { margin: 0px; padding: 0pt; list-style-type: none; list-style-image: none; list-style-position: outside; }
+.archives ul li { margin: 0pt; padding: 0pt; }
+.archives ul li a { padding: 3pt 10pt 3pt 12pt; overflow: auto; height: 100%; text-decoration: none; display: block; color: rgb(153, 153, 153); font-family: 'Trebuchet MS',Verdana,Helvetica,Arial,sans-serif; }
+.archives ul li a:hover { text-decoration: none; background-color: rgb(246, 253, 255); }
+.archives ul li span { padding: 3pt 10pt 3pt 12pt; overflow: auto; height: 100%; text-decoration: none; display: block; color: rgb(153, 153, 153); font-family: 'Trebuchet MS',Verdana,Helvetica,Arial,sans-serif; }
+#footer { margin: 0px auto; padding: 0px; clear: both; width: 550px; font-family: Geneva,Arial,Helvetica,sans-serif,'Trebuchet MS'; font-size: 10px; color: rgb(249, 249, 249); text-align: center; line-height: 20px; background-color: rgb(18, 132, 163); }
+#footer p { margin: 0px; }
+#footer p a { color: rgb(249, 249, 249); text-decoration: none; }
+#footer p a:hover { color: rgb(255, 255, 255); text-decoration: underline; }
+#holow { display: none; }
+#footercontainer { border-top: 5px solid rgb(233, 233, 233); margin: 0px; padding: 20px 0px 0px; background: rgb(18, 132, 163) url('images/clouds.jpg') no-repeat scroll center top; height: auto; clear: both; font-size: 12px; line-height: 1.2em; }
+#footercontainer-inner { margin: 0px auto; padding: 0px; width: 550px; }
+#leftside1 { margin: 0px; padding: 0px; width: 200px; float: left; font-family: Geneva,Arial,Helvetica,sans-serif,"Trebuchet MS"; font-size: 12px; color: rgb(255, 255, 255); line-height: 20px; }
+#leftside1 h2 { font-size: 14px; font-family: 'Georgia',Times New Roman,Times,serif; padding-left: 5px; }
+#middleside1 { margin: 0px; padding: 0px 0px 10px; width: 170px; float: left; font-family: Geneva,Arial,Helvetica,sans-serif,"Trebuchet MS"; font-size: 12px; color: rgb(255, 255, 255); line-height: 20px; }
+#middleside1 h2 { padding-left: 5px; font-size: 14px; font-family: 'Georgia',Times New Roman,Times,serif; }
+#rightside1 { margin: 0px; padding: 0px 0px 10px; width: 180px; float: right; font-family: Geneva,Arial,Helvetica,sans-serif,"Trebuchet MS"; font-size: 12px; color: rgb(255, 255, 255); line-height: 20px; }
+#rightside1 h2 { font-size: 14px; font-family: 'Georgia',Times New Roman,Times,serif; padding-left: 5px; }
+.archives1 { margin: 0pt; font-size: 12px; font-family: Geneva,Arial,Helvetica,sans-serif,'Trebuchet MS'; color: rgb(255, 255, 255); }
+.archives1 p { margin: -10px 0px 10px; padding: 3pt; overflow: auto; height: 100%; text-decoration: none; display: block; color: rgb(255, 255, 255); font-family: 'Trebuchet MS',Verdana,Helvetica,Arial,sans-serif; }
+.archives1 p:hover { text-decoration: none; background-color: rgb(23, 149, 183); }
+.archives1 a { color: rgb(255, 255, 255); text-decoration: none; }
+.archives1 a:hover { text-decoration: underline; }
+.archives1 ul { margin: -10px 0px 10px; padding: 0pt; list-style-type: none; list-style-image: none; list-style-position: outside; }
+.archives1 ul li { margin: 0pt; padding: 0pt; }
+.archives1 ul li a { padding: 3pt 7pt 3pt 5px; overflow: auto; height: 100%; text-decoration: none; display: block; color: rgb(255, 255, 255); font-family: 'Trebuchet MS',Verdana,Helvetica,Arial,sans-serif; }
+.archives1 ul li a:hover { text-decoration: none; background-color: rgb(23, 149, 183); }
+.archives1 ul li span { padding: 3pt 10pt 3pt 5px; overflow: auto; height: 100%; text-decoration: none; display: block; color: rgb(255, 255, 255); font-family: 'Trebuchet MS',Verdana,Helvetica,Arial,sans-serif; }
+#more1 { padding: 20px 0px 50px; background-image: url('images/leaf.gif'); background-repeat: no-repeat; background-position: center bottom; text-align: center; color: rgb(116, 116, 116); font-family: Geneva,Arial,Helvetica,sans-serif,'trebuchet MS'; font-size: 12px; }
+#more3 { padding: 20px 0px; text-align: center; color: rgb(116, 116, 116); font-family: Geneva,Arial,Helvetica,sans-serif,'trebuchet MS'; font-size: 12px; }
+#headcomment h3 { font-family: 'Georgia',Times New Roman,Times,serif; font-size: 16px; font-weight: bold; line-height: 20px; color: rgb(18, 132, 163); padding-left: 10px; }
+.gravatar { margin-right: 10px; }
+.comment { border-bottom: 1px solid rgb(233, 233, 233); margin: 0px; padding: 10px 0px; font-family: Geneva,Arial,Helvetica,sans-serif,"trebuchet MS"; font-size: 12px; color: rgb(116, 116, 116); line-height: 20px; }
+.comment p { margin: 0px; padding: 20px 0px; }
+.comment a { text-decoration: none; color: rgb(18, 132, 163); }
+.comment a:hover { text-decoration: underline; }
+.comment a:hover { text-decoration: underline; }
+.commentauthor { padding-left: 10px; color: rgb(18, 148, 163); font-weight: bold; }
+.commentdate { color: rgb(18, 148, 163); }
+#postcomment { margin: 0px; padding: 0px; font-family: Geneva,Arial,Helvetica,sans-serif,'trebuchet MS'; font-size: 12px; line-height: 20px; color: rgb(116, 116, 116); }
+#formfield { border: 1px dotted rgb(242, 242, 242); padding: 10px; margin-top: 20px; margin-bottom: 20px; }
+.boxcomment { border: 1px solid rgb(242, 242, 242); background-color: rgb(246, 253, 255); height: 20px; color: rgb(116, 116, 116); }
+.boxcomment2 { border: 1px solid rgb(242, 242, 242); margin: 0px; padding: 0px; background-color: rgb(246, 253, 255); width: 345px; height: 150px; color: rgb(116, 116, 116); }
+#postcomment h3 { font-family: 'Georgia',Times New Roman,Times,serif; font-size: 16px; font-weight: bold; line-height: 20px; color: rgb(18, 132, 163); margin-top: 0px; }
+#postcomment p { margin: 0px; padding: 0px; font-family: Geneva,Arial,Helvetica,sans-serif,'trebuchet MS'; font-size: 12px; }
+.explain { font-size: 12px; font-weight: normal; font-family: Geneva,Arial,Helvetica,sans-serif,'trebuchet MS'; color: rgb(116, 116, 116); }
+.submit { border: 1px solid rgb(242, 242, 242); color: rgb(116, 116, 116); background-color: rgb(255, 255, 255); margin-top: 10px; }

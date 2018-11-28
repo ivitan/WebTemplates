@@ -1,0 +1,163 @@
+/* pins(c) Design by Uli Sobers::                        www.free-templates-sobers.de   */
+/*//////////////////////////////////////////////////////////////////////////////////////*/
+
+html {
+	scrollbar-face-color:           #efefef;
+	scrollbar-highlight-color:      #f3f3f3;
+	scrollbar-3dlight-color:        #ffffff;
+	scrollbar-shadow-color:         #efefef;
+	scrollbar-darkshadow-color:     #bcbcbc;
+	scrollbar-arrow-color:          #0070a0;
+	scrollbar-track-color:          #9c9c9c;
+  margin:                         0 0 0 0;
+  padding:                        0 0 0 0;
+  }
+
+
+body {
+  background-image:               url(./grafics/pins.jpg);
+  background-position:            left bottom;
+  background-repeat:              no-repeat;
+  background-attachment:          fixed;
+  background-color:               #ffffff;
+  font-family:                    verdana, arial, helvetica, sans-serif;
+  margin:                         0 0 0 0;
+  padding:                        0 0 0 0;
+  }
+
+
+h1 {
+  font-size:                      180%;
+  font-weight:                    normal;
+  margin:                         0 0 14 0;
+  padding:                        0 20 0 0;
+  }
+
+
+h2 {
+  font-size:                      130%;
+  font-weight:                    normal;
+  margin:                         0 0 14 0;
+  padding:                        0 20 0 0;
+  }
+
+
+hr {
+  color:                          #6f6f6f;
+  margin:                         0 20 0 0;
+  }
+
+
+#nav {
+  position:                       absolute;
+  left:                           13px;
+  top:                            24px;
+  height:                         auto;
+  width:                          240px;
+  }
+
+
+#nav ul{
+  list-style-type:                none;
+  margin:                         0 0 0 0;
+  padding:                        0 0 0 0;
+  }
+
+
+#nav li{
+  float:                          left;
+  margin:                         1 0 0 0;
+  padding:                        0 0 0 0;
+  }
+
+
+#nav a {
+  display:                        block;
+  background-color:               #3d66dc;
+  width:                          240px;
+  font-family:                    arial, helvetica;
+  font-size:                      0.8em;
+  font-weight:                    normal;
+  color:                          #ffffff;
+  text-decoration:                none;
+  padding:                        1 0 1 0;
+  border-right:                   solid 1px #000000;
+  border-bottom:                  solid 1px #000000;
+  opacity:                        0.70;
+  -moz-opacity:                   0.70;
+  -khtml-opacity:                 0.70;
+  filter:                         progid:DXImageTransform.Microsoft.Alpha(opacity=70);
+  }
+
+
+#nav a:hover {
+  background-color:               #ffff88;
+  color:                          #000000;
+  }
+
+
+#contentbox {
+  position:                       absolute;
+  left:                           280px;
+  top:                            0px;
+  height:                         100%;
+  min-height:                     100%;
+  height:                         auto !important;
+  width:                          auto;
+  color:                          #000000;
+  font-size:                      82%;
+  padding:                        24 0 0 0;
+  }
+
+
+#contentbox p {
+  text-align:                     justify;
+  padding:                        0 20 0 0;
+  margin:                         0 0 0 0;
+  }
+
+
+#contentbox a {
+  color:                          #1a43b9;
+  font-weight:                    normal;
+  text-decoration:                none;
+  }
+
+
+#contentbox a:hover {
+  color:                          #ffffff;
+  background-color:               #7793e6;
+  }
+
+#footer {
+  color:                          #6f6f6f;
+  font-size:                      74%;
+  text-align:                     center;
+  }
+
+#footer a {
+  color:                          #6f6f6f;
+  background-color:               transparent;
+  text-decoration:                none;
+  }
+
+
+#footer a:hover {
+  color:                          #bfbfbf;
+  background-color:               transparent;
+  text-decoration:                none;
+  }
+
+#count {
+  position:                       absolute;
+  bottom:                         44px;
+  left:                           10px;
+  height:                         auto;
+  width:                          240px;
+  text-align:                     right;
+  color:                          #4f4f4f;
+  font-size:                      55%;
+  border:                         solid 0px gray;
+  }
+
+

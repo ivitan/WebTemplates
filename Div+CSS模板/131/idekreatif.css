@@ -1,0 +1,252 @@
+/* ***** ide kreatif CSS ***** */
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+a {
+	text-decoration: none;
+	border-bottom: 1px dotted #FBA64B;
+	color: #F98100;
+}
+
+a:hover {
+	text-decoration: none;
+	border-bottom: 1px dotted #FCB86F;
+	color: #F99830;
+}	
+
+#container {
+	margin: 0px auto;
+	padding: 0px;
+	width: 680px;
+	position: relative;
+}
+
+#nav {
+	margin: 4px 0 0 7px;
+	padding: 0px;
+	width: 425px;
+	position: relative;
+	top: -4px;
+}
+
+* html #nav {
+	margin: 20px 0 0 7px;
+}
+
+#nav ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#nav ul li {
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+#nav ul li a {
+	color: #A8A8A8;
+	display: block;
+	margin: 0px 2px 0px 3px;
+	padding: 3px 0 0 0;
+	width: 68px;
+	height: 21px;
+	text-decoration: none;
+	border: none;
+	text-align: center;
+	font-family: 'Trebuchet MS',Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 1em;
+}
+
+#nav ul li a:hover {
+	color: #898989;
+}
+
+#nav ul li a span {
+	color: #2aa3ff;
+}
+
+#leftside {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 438px;
+	height: auto;
+}
+
+* html #leftside {
+	display: inline;
+}
+
+#leftside h2 {
+	margin: 40px 0 0 20px;
+	padding: 0px;
+	font-family: 'Trebuchet MS',Arial, Helvetica, sans-serif;
+	font-size: 1.8em;
+	font-weight: normal;
+	line-height: 30px;
+	color: #3a3a3a;
+	clear: both;
+}
+
+#leftside p {
+	margin: 15px 15px 0 20px;
+	padding: 0px;
+	font-family: 'Arial', Helvetica, sans-serif;
+	font-size: 0.7em;
+	line-height: 20px;
+	text-align: left;
+	font-weight: normal;
+	color: #3a3a3a;
+	letter-spacing: 0.01em;
+}
+
+#footer {
+	margin: -20px 0 0 0;
+	padding: 0px;
+	background-color: #252525;
+}
+
+#footer-container {
+	margin: 0px auto;
+	padding: 0px;
+	width: 680px;
+	height: 400px;
+	background: url('images/bg_footer.gif');
+	position: relative;
+}
+
+#footer-container h2 {
+	margin: 0 0 0 20px;
+	padding: 20px 0 0 0px;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 1.8em;
+	font-weight: normal;
+	line-height: 30px;
+	color: #fafafa;
+}
+
+#footer-leftside {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 438px;
+}
+
+#footer-rightside {
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	width: 240px;
+}
+
+#footer-rightside  h2 {
+	margin: 5px 0 10px 30px;
+	padding: 20px 0 0 0px;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 1.8em;
+	font-weight: normal;
+	line-height: 30px;
+	color: #fafafa;
+}
+
+#footer-rightside p {
+	margin: 5px 10px 10px 30px;
+	padding: 0px;
+	font-family: 'Arial', Helvetica, sans-serif;
+	font-size: 0.7em;
+	line-height: 20px;
+	text-align: left;
+	color: #fafafa;
+	letter-spacing: 0.01em;
+}
+
+#contact {
+	margin: 20px 0 10px 30px;
+	padding: 0px;
+	border: none;
+}
+
+.contact-form {
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+
+.contact-field {
+	background-color: #414141;
+	border: none;
+	color: #fafafa;
+	width: 170px;
+	height: 15px;
+	margin: 0 0 10px 0;
+	padding: 7px;
+	font-family: 'Arial', Helvetica, sans-serif;
+	font-size: 0.7em;
+	letter-spacing: 0.01em;
+	display: block;
+}
+
+.contact-textarea {
+	background-color: #414141;
+	border: none;
+	color: #fafafa;
+	width: 170px;
+	height: 100px;
+	margin: 0 0 10px 0;
+	padding: 7px;
+	font-family: 'Arial', Helvetica, sans-serif;
+	font-size: 0.7em;
+	letter-spacing: 0.01em;
+	display: block;
+}
+
+.contact-submit {
+	background-color: #fafafa;
+	color: #414141;
+	border: none;
+	margin: 5px 0 0 0;
+	padding: 1px;
+	font-family: 'Arial', Helvetica, sans-serif;
+	font-size: 0.7em;
+	letter-spacing: 0.01em;
+	font-weight: bold;
+	width: 50px;
+	height: 20px;
+	text-align: center;
+	display: block;
+}
+
+#footer-footer {
+	margin: 0px auto;
+	padding: 0px;
+	clear: both;
+	background-color: #080808;
+}
+
+#footer-footer p {
+	margin: 0px auto;
+	width: 680px;
+	padding: 20px 0 20px 20px;
+	display: block;
+	font-family: 'Arial', Helvetica, sans-serif;
+	font-size: 0.7em;
+	line-height: 20px;
+	text-align: left;
+	color: #777777;
+	letter-spacing: 0.01em;
+}
+
+#footer-footer p a {
+	border: none;
+	color: #777777;
+}
+
+#footer-footer p a:hover {
+	color: #fafafa;
+}
