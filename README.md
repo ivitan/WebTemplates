@@ -1,2 +1,2 @@
 # WebTemplates
-https://vitan.me/WebTemplates/html/001/index.html
+[预览](https://vitan.me/WebTemplates/html/001/index.html)
