@@ -5,5 +5,5 @@
 </p>
 <p align="center" class="has-mb-6">
 <a href="https://vitan.me/WebTemplates/html/001/index.html">Preview</a> | 
-<a href="https://vitan.me/WebTemplates/html/"></a>
+<a href="https://vitan.me/WebTemplates/html/">访问统计</a>
 </p>
